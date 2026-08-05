@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.6.0](https://github.com/penrynjohnp/a2a-rs/compare/a2a-rs-v0.5.0...a2a-rs-v0.6.0) - 2026-08-05
+
+### Added
+
+- *(a2a-rs)* Thread a ClientConfig through transport negotiation
+
+### Fixed
+
+- *(a2a-rs)* Redact the token in Debug, and stop a valid URL panicking
+
 ## [0.5.0](https://github.com/EmilLindfors/a2a-rs/compare/a2a-rs-v0.4.1...a2a-rs-v0.5.0) - 2026-07-31
 
 ### Added

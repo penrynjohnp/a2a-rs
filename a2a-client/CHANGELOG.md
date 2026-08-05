@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.1](https://github.com/penrynjohnp/a2a-rs/compare/a2a-web-client-v0.5.0...a2a-web-client-v0.5.1) - 2026-08-05
+
+### Fixed
+
+- *(a2a-rs)* Redact the token in Debug, and stop a valid URL panicking
+
 ## [0.5.0](https://github.com/EmilLindfors/a2a-rs/compare/a2a-web-client-v0.4.1...a2a-web-client-v0.5.0) - 2026-07-31
 
 ### Added
